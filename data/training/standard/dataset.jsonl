@@ -1,0 +1,2 @@
+{"messages": [{"role": "system", "content": "You are a customer support agent."}, {"role": "user", "content": "How do I reset my password?"}, {"role": "assistant", "content": "You can reset it by clicking 'Forgot Password' on the login page."}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Where is my order?"}, {"role": "assistant", "content": "Please provide your order ID so I can track it for you."}]}
