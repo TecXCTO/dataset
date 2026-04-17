@@ -1,0 +1,2 @@
+{"prompt": "Extract the case name from this text: [TEXT]", "completion": "Smith v. Jones"}
+{"prompt": "Summarize the following customer feedback: [FEEDBACK]", "completion": "The customer is unhappy with the shipping speed."}
