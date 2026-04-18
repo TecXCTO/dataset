@@ -1,0 +1,11 @@
+; This is a comment in a GSL file
+
+.CustomerAction
+[
+    (I want to [reset change] my password) { <action "password_reset"> }
+    (Where is my [order package]) { <action "order_status"> }
+    (I need to speak to [agent representative human]) { <action "transfer"> }
+]
+
+.MainGrammar
+( [.CustomerAction] )
