@@ -1,0 +1,53 @@
+[
+  {
+    "id": 262145,
+    "content": "∫",
+    "single_word": true,
+    "lstrip": false,
+    "rstrip": false,
+    "normalized": false,
+    "special": true,
+    "metadata": { "latex": "\\int", "name": "Integral" }
+  },
+  {
+    "id": 262146,
+    "content": "∬",
+    "single_word": true,
+    "lstrip": false,
+    "rstrip": false,
+    "normalized": false,
+    "special": true,
+    "metadata": { "latex": "\\iint", "name": "Double Integral" }
+  },
+  {
+    "id": 262147,
+    "content": "∇",
+    "single_word": true,
+    "lstrip": false,
+    "rstrip": false,
+    "normalized": false,
+    "special": true,
+    "metadata": { "latex": "\\nabla", "name": "Nabla/Gradient" }
+  },
+  {
+    "id": 262148,
+    "content": "ħ",
+    "single_word": true,
+    "lstrip": false,
+    "rstrip": false,
+    "normalized": false,
+    "special": true,
+    "metadata": { "latex": "\\hbar", "name": "Reduced Planck Constant" }
+  },
+  {
+    "id": 262149,
+    "content": "∑",
+    "single_word": true,
+    "lstrip": false,
+    "rstrip": false,
+    "normalized": false,
+    "special": true,
+    "metadata": { "latex": "\\sum", "name": "Summation" }
+  }
+]
+
