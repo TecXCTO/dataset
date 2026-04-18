@@ -1,0 +1,10 @@
+{
+  "bos_token": "<s>",
+  "eos_token": "</s>",
+  "unk_token": "<unk>",
+  "additional_special_tokens": [
+    "<customer_id>",
+    "<order_status>",
+    "<priority_level>"
+  ]
+}
