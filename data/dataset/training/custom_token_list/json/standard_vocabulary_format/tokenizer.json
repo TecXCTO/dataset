@@ -1,0 +1,13 @@
+{
+  "model": {
+    "vocab": {
+      "[PAD]": 0,
+      "[UNK]": 1,
+      "[CLS]": 2,
+      "custom_token_1": 3,
+      "custom_token_2": 4,
+      "your_keyword": 5
+    }
+  }
+}
+
