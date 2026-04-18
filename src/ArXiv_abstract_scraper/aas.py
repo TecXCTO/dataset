@@ -36,3 +36,9 @@ def scrape_arxiv_to_jsonl(category="physics.gen-ph", max_results=50, output_file
 # Categories to try: 'math.MP' (Math Physics), 'physics.quant-ph' (Quantum), 'math.CA' (Calculus)
 scrape_arxiv_to_jsonl(category="math.MP", max_results=100)
 
+if __name__=="__main__":
+    categories = ["math.MP", "quant-ph", "math.CA"]
+    for cat in categories:
+        print(f"Scraping {cat}...")
+        scrape_arxiv_to_jsonl(category=cat, max_results=100, output_file="final_scientific_dataset.jsonl")
+    
