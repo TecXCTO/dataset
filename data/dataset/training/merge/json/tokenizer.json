@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "truncation": null,
+  "padding": null,
+  "added_tokens": [
+    {
+      "id": 50001,
+      "content": "∫",
+      "single_word": true,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 50002,
+      "content": "∆",
+      "single_word": true,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    }
+  ],
+  "model": {
+    "type": "BPE", 
+    "vocab": {
+      "the": 0,
+      "vector": 1,
+      "velocity": 2
+    },
+    "merges": ["v e", "ve l", "vel o"]
+  }
+}
+
