@@ -1,0 +1,11 @@
+[
+  {
+    "id": 50257,
+    "content": "<CUSTOM_TOKEN>",
+    "single_word": false,
+    "lstrip": false,
+    "rstrip": false,
+    "normalized": true,
+    "special": true
+  }
+]
