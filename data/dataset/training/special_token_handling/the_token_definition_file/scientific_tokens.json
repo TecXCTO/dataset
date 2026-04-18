@@ -1,0 +1,23 @@
+[
+  {
+    "symbol": "Ω",
+    "name": "Omega",
+    "latex": "\\Omega",
+    "category": "Greek Letters",
+    "usage": "Electrical resistance (Ohms)"
+  },
+  {
+    "symbol": "∫",
+    "name": "Integral",
+    "latex": "\\int",
+    "category": "Calculus",
+    "usage": "Area under a curve"
+  },
+  {
+    "symbol": "ħ",
+    "name": "Reduced Planck constant",
+    "latex": "\\hbar",
+    "category": "Quantum Mechanics",
+    "usage": "Action or angular momentum"
+  }
+]
